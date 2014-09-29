@@ -210,3 +210,10 @@ providers:
     img: yubico.png
     hardware: Yes
     software: Yes
+    
+  - name: Latch
+    url: https://latch.elevenpaths.com/
+    img: latch.png
+    software: Yes
+
+
